@@ -1,1 +1,2 @@
 # Python-Notebook-2
+This notebook explores the Pandas library. I imported the dataset which was called students_csv to work with in my notebook. I used indexing and slicing methods in my notebook. The iloc function is used to present data in a tabular format whereas loc function is a label-based function that I used to select rows and columns from my dataframe. I used slicing to help return range of characters by using the slice syntax. 
